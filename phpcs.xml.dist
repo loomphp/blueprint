@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<ruleset name="Lamba Coding Standard">
-    <description>Lamba Coding Standard</description>
+<ruleset name="Loom Coding Standard">
+    <description>The Loom Coding Standard</description>
 
     <!-- display progress -->
     <arg value="p"/>

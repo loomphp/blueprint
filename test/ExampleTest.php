@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Lamba\Template;
+namespace Loom\Template;
 
 use PHPUnit\Framework\TestCase;
 
